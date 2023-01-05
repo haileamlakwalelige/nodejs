@@ -1,3 +1,5 @@
+// this will open a file and have a permission to write anything
+
 var fs=require('fs');
 
 

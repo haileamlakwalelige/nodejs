@@ -1,3 +1,5 @@
+// this will output the given text and some text imported from the other folder
+
 var http = require('http');
 var dt = require('./date');
 

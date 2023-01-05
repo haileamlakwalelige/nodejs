@@ -1,3 +1,5 @@
+// this will delete the specified file
+
 var fs=require('fs');
 
 fs.unlink('myfile.txt',function(err){

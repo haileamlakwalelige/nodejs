@@ -1,3 +1,5 @@
+// this will output the given url with some HTML files
+
 var http=require('http');
 var fs=require('fs');
 var url=require('url');

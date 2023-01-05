@@ -1,3 +1,5 @@
+// to see and set the url of the year and month
+
 var url=require('url');
 var adr='http:/localhost:8080/default.html?year=2020&month=january';
 var q=url.parse(adr,true);
